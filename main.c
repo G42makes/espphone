@@ -4,3 +4,8 @@
 #include "task.h"
 #include "queue.h"
 #include "esp8266.h"
+
+void user_init(void)
+{
+	//do nothing?
+}
