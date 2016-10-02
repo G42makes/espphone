@@ -1,3 +1,4 @@
+##Github default C ignores
 # Compiled Object files
 *.slo
 *.lo
@@ -27,3 +28,8 @@
 *.exe
 *.out
 *.app
+
+
+##openRTOS build and firmware folders
+build/
+firmware/
