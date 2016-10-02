@@ -11,3 +11,11 @@ But, since that project needs some capabilities that are not default in most ope
 
 #Status
 Nothing. I have the RTOS setup to build and install according to their excellent instructions, but have not actually tried to get the SIP libraries involved yet. I'm also not that good with C and derivatives, so don't expect this to be pretty.
+
+#Setup
+I use a 'Repos' folder in my user home. Everything is checked out in there. 
+Follow the instructions to install esp-open-rtos.
+Using SVN download the trunk of PJSIP
+Make sure esptool.py installed properly.
+Run some test examples(ie blink) to make sure it works.
+Use tools/rtos.sh in this repo to set the path up.
