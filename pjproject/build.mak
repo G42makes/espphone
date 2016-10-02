@@ -1,5 +1,5 @@
 #Modified build.mak for esp8266
-export PATH = $PATH:~/Repos/esp-open-sdk/xtensa-lx106-elf/bin
+#export PATH = $(PATH):~/Repos/esp-open-sdk/xtensa-lx106-elf/bin
 
 export PJDIR := ~/Repos/pjproject
 export MACHINE_NAME := lx106
